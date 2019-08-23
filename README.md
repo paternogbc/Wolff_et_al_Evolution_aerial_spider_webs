@@ -7,7 +7,7 @@ __Evolution of aerial spider webs coincided with repeated structural optimizatio
 _Jonas O. Wolff, Gustavo B. Paterno, Daniele Liprandi, Martín J. Ramírez, Federico Bosia, Arie van der Meijden, Peter Michalik, Helen M. Smith, Braxton R. Jones, Alexandra M. Ravelo, Nicola Pugno and Marie E. Herberstein_  
   
 Journal: __Evolution__  
-DOI: 10.1111/evo.13834  
+DOI:  https://doi.org/10.1111/evo.13834  
 
 ***
 

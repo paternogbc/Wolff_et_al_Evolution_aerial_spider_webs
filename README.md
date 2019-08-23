@@ -22,4 +22,4 @@ DOI: 10.1111/evo.13834
 When using the __data available__ in this repository, please cite the original publication.  
 Contact jonas.wolff@mq.edu.au for any further information.  
 
-> Wolff, J. O., G. B. Paterno, D. Liprandi, M. J. Ramírez, F. Bosia, A. van der Meijden, P. Michalik, H. M. Smith, B. R. Jones, A. M. Ravelo, N. Pugno, and M. E. Herberstein. 2019. __Evolution of aerial spider webs coincided with repeated structural optimization of silk anchorages__. _Evolution_, DOI: 10.1111/evo.13834.
+> Wolff, J. O., Paterno, G. B., Liprandi, D. , Ramírez, M. J., Bosia, F. , der Meijden, A. , Michalik, P. , Smith, H. M., Jones, B. R., Ravelo, A. M., Pugno, N. and Herberstein, M. E. (2019), __Evolution of aerial spider webs coincided with repeated structural optimization of silk anchorages__. Evolution. Accepted Author Manuscript. doi:10.1111/evo.13834
